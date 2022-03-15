@@ -1,5 +1,13 @@
 # shohay
 
+``css
+.markdown-body .absent {
+    color: var(--color-danger-fg);
+}
+``
+<li>
+<a class="internal absent" href="/wyegelwel/Class-Notes/wiki/Computation-Linear-Algebra-%28class%29">Computation Linear Algebra (class)</a> (APMA 1170)</li>
+
 A new Flutter project.
 
 ## Getting Started
