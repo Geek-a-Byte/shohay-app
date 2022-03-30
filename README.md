@@ -1,7 +1,12 @@
 # shohay
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59027621/142192985-d4d468f7-57fe-48af-bde7-1ed6e6b9419e.jpg" title="" width="50%" height="55%">
 </p>
+
+![SHOHAY](https://user-images.githubusercontent.com/59027621/160827187-306995d5-9d49-4fcc-899d-6079ef056af9.png)
+
+
 
 ## ```important docs```
 - [Project Proposal of IDP](https://docs.google.com/document/d/1aEDPqqpynS9ch5VZYVmxRlxsovGaPJsfoP9dGt3r9EA/edit)
