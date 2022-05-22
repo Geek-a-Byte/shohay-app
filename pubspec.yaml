@@ -29,11 +29,35 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  flutter_osm_plugin: ^0.7.5
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  firebase_core: ^1.14.1
+  pinput: ^2.2.7
+  geolocator: ^8.2.1
+  geolocator_platform_interface: ^4.0.5
+  geocoding: ^2.0.4
+  latlng: ^0.1.0
+  http: ^0.13.4
+  telephony: any
+  firebase_database: ^9.0.14
+  fluttertoast: ^8.0.9
+  firebase_auth: ^3.3.18
+  firebase_auth_web: ^3.3.15
+  flutter_map: ^0.14.0
+  flutter_rating_bar: ^4.0.1
+  flutter_form_builder: ^7.2.0
+  form_builder_validators: ^8.1.1
+  flutter_localizations: 
+    sdk: flutter
+    version: ^0.0.0
+  reactive_date_time_picker: ^0.3.0
+  reactive_dropdown_search: ^0.8.0
+  reactive_forms: ^12.0.0
+  reactive_segmented_control: ^0.3.0
+  reactive_touch_spin: ^0.5.0
 
 dev_dependencies:
   flutter_test:

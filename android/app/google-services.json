@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "382357801308",
+    "firebase_url": "https://shohay-ce422-default-rtdb.firebaseio.com",
+    "project_id": "shohay-ce422",
+    "storage_bucket": "shohay-ce422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382357801308:android:135d84b1d5abb78fee5999",
+        "android_client_info": {
+          "package_name": "com.grp3.shohay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382357801308-6oub7t2ejbub2d97q2uqingjmvte14j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwKlxC0riRHNMp8MFQXZUSlDPwtT50mTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382357801308-6oub7t2ejbub2d97q2uqingjmvte14j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
