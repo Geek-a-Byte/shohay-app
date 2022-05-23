@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:pinput/pinput.dart';
 
 class Otp extends StatefulWidget {
   const Otp({Key? key}) : super(key: key);
@@ -72,20 +74,6 @@ class _OtpState extends State<Otp> {
               const SizedBox(
                 height: 18,
               ),
-              // Container(
-              //   width: w * 0.2,
-              //   height: h * 0.2,
-              //   decoration: BoxDecoration(
-              //     color: Colors.deepdeepPurple.shade50,
-              //     shape: BoxShape.circle,
-              //   ),
-              //   child: Image.asset(
-              //     'images/illustration-3.png',
-              //   ),
-              // ),
-              // const SizedBox(
-              //   height: 24,
-              // ),
               const Text(
                 'Verification',
                 style: TextStyle(

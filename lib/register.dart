@@ -35,22 +35,6 @@ class _RegisterState extends State<Register> {
               const SizedBox(
                 height: 18,
               ),
-              // Container(
-              //   width: 200,
-              //   height: 200,
-              //   decoration: BoxDecoration(
-              //     color: Colors.deepPurple.shade50,
-              //     shape: BoxShape.circle,
-              //   ),
-              //   child: Image.asset(
-              //     'images/illustration-2.png',
-              //     width: w * 0.8,
-              //     height: h * 0.3,
-              //   ),
-              // ),
-              // const SizedBox(
-              //   height: 24,
-              // ),
               const Text(
                 'Sign In',
                 style: TextStyle(
@@ -126,8 +110,8 @@ class _RegisterState extends State<Register> {
                         style: ButtonStyle(
                           foregroundColor:
                               MaterialStateProperty.all<Color>(Colors.white),
-                          backgroundColor:
-                              MaterialStateProperty.all<Color>(Colors.deepPurple),
+                          backgroundColor: MaterialStateProperty.all<Color>(
+                              Colors.deepPurple),
                           shape:
                               MaterialStateProperty.all<RoundedRectangleBorder>(
                             RoundedRectangleBorder(
