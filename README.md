@@ -6,8 +6,6 @@
 
 ![SHOHAY](https://user-images.githubusercontent.com/59027621/160827187-306995d5-9d49-4fcc-899d-6079ef056af9.png)
 
-
-
 ## ```important docs```
 - [Project Proposal of IDP](https://docs.google.com/document/d/1aEDPqqpynS9ch5VZYVmxRlxsovGaPJsfoP9dGt3r9EA/edit)
 - [SRS](https://docs.google.com/document/d/1iXey1WWI2DBPgEi-tC_DBupAQzZjPQcR5-J5gpXkdSI/edit)
@@ -16,13 +14,6 @@
 - [presentation slides](https://mistedu-my.sharepoint.com/:p:/g/personal/201914032_student_mist_ac_bd/EZHMNsW7Uv1Gus10afZ28LQBSlmpHEhx4TbFNYwS-Z40iw?e=dtQoGB)
 - [devices and papers](https://drive.google.com/drive/folders/11uzQKBdA9M-zHiCkuBpnS-rpwIF0hlr0?lfhs=2&fbclid=IwAR3LUtvMpitIeW9BBU0MTGXZZgAxHd0UviyxdovvEQ_duosAtpdEhza0L9Y)
 - [prototype](https://www.figma.com/file/Ijgmy2z7B7RLSlqrtQJYOh/SHOHAY?node-id=0%3A1)
-
-## ``addition to project``
-- https://github.com/renad-albishri/Classification-Predicting-Victim-Relationship
-> The goal of this project is to predict the perpetrator's relationship with the victim, by using Classification as a part of machine learning.
-A new Flutter project.
-
-
 
 ## Getting Started
 
@@ -38,6 +29,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-
-- https://www.geeksforgeeks.org/flutter-changing-app-icon/
 
